@@ -5,7 +5,9 @@
 <th>
 Date</th>
 <th>
-Links to the content</th>
+Topic</th>
+  <th>
+    Links to Content
 </th>
 <!--- Actual data from 17 Oct --!>
 
@@ -14,6 +16,7 @@ Links to the content</th>
 </td>
 <td>
 <!----Work in Progress--!>
+K8s lens</td><td>
 https://twitter.com/__karnati/status/1581960872314179584
 </td>
 </tr>
@@ -23,6 +26,7 @@ https://twitter.com/__karnati/status/1581960872314179584
 </td>
 <td>
 <!----Work in Progress--!>
+What are GitHub actions</td><td>
 https://twitter.com/__karnati/status/1582031982732591104
 </td>
 </tr>
@@ -32,6 +36,7 @@ https://twitter.com/__karnati/status/1582031982732591104
 </td>
 <td>
 <!----Work in Progress--!>
+What is DevOps? - Comments are must read</td><td>
 https://twitter.com/__karnati/status/1582618298994552832
 </td>
 </tr>
@@ -41,6 +46,7 @@ https://twitter.com/__karnati/status/1582618298994552832
 </td>
 <td>
 <!----Work in Progress--!>
+What are container probes?</td><td>
 https://twitter.com/__karnati/status/1583151502478409728
 </td>
 </tr>
@@ -50,6 +56,7 @@ https://twitter.com/__karnati/status/1583151502478409728
 </td>
 <td>
 <!----Work in Progress--!>
+Control Loop in Kubernetes</td><td>
 https://twitter.com/__karnati/status/1583513114972069889
 </td>
 </tr>
@@ -59,6 +66,8 @@ https://twitter.com/__karnati/status/1583513114972069889
 </td>
 <td>
 <!----Work in Progress--!>
+What is etcd and why it is for k8s?</td><td>
+https://twitter.com/__karnati/status/1583868800629293057
 </td>
 </tr>
 
