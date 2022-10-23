@@ -76,6 +76,10 @@ https://twitter.com/__karnati/status/1583868800629293057
 </td>
 <td>
 <!----Work in Progress--!>
+What is Kubernets Init Containers
+</td>
+<td>
+https://twitter.com/__karnati/status/1584211592165457920
 </td>
 </tr>
 
