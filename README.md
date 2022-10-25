@@ -100,6 +100,10 @@ https://twitter.com/__karnati/status/1584432555805196289
 </td>
 <td>
 <!----Work in Progress--!>
+What are StatefulSets?
+</td>
+<td>
+https://twitter.com/__karnati/status/1584764994390032384
 </td>
 </tr>
 
