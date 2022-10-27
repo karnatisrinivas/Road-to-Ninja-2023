@@ -123,7 +123,11 @@ https://twitter.com/__karnati/status/1585158074716782592
 <td> 27 Oct 2022
 </td>
 <td>
+ConfigMaps in K8s.
 <!----Work in Progress--!>
+</td>
+<td>
+https://twitter.com/__karnati/status/1585490262352138247
 </td>
 </tr>
 
