@@ -135,7 +135,11 @@ https://twitter.com/__karnati/status/1585490262352138247
 <td> 28 Oct 2022
 </td>
 <td>
+What is CRI?
 <!----Work in Progress--!>
+</td>
+<td>
+https://twitter.com/__karnati/status/1585850643390021632
 </td>
 </tr>
 
