@@ -147,7 +147,11 @@ https://twitter.com/__karnati/status/1585850643390021632
 <td> 29 Oct 2022
 </td>
 <td>
+What is PV and PVC?
 <!----Work in Progress--!>
+</td>
+<td>
+https://twitter.com/__karnati/status/1586214542949982210
 </td>
 </tr>
 
