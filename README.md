@@ -159,7 +159,11 @@ https://twitter.com/__karnati/status/1586214542949982210
 <td> 30 Oct 2022
 </td>
 <td>
+Taking ArgoCD Certification (CodeFresh)
 <!----Work in Progress--!>
+</td>
+<td>
+https://learning.codefresh.io/course/gitops-with-argo
 </td>
 </tr>
 
