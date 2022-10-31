@@ -172,6 +172,11 @@ https://learning.codefresh.io/course/gitops-with-argo
 </td>
 <td>
 <!----Work in Progress--!>
+What is GitOps?
+</td>
+
+<td>
+https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/GitOps/What-is-GitOps.md
 </td>
 </tr>
 
