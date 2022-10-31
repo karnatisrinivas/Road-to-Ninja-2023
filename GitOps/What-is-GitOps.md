@@ -24,7 +24,13 @@ Let's consider an scenario where your application is deployed in a K8s cluster. 
 - In GitOps, we will install a GitOps controller in the cluster which will continuosly watches our second repo. Any change in the repo will make the changes in cluster. ( Current state to Desired state).
 
 
+
+<br>
+
 ### Here you have everything managed by git, both source code and deployment. There is no external endpoint with full access to the cluster. GitOps controller which always try to match the current state to the desired state is an plus. 
+
+
+<br>
 
 ## GitOps Key Principles:
 
