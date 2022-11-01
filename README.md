@@ -179,5 +179,9 @@ What is GitOps?
 https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/GitOps/What-is-GitOps.md
 </td>
 </tr>
+<tr>
+<td> 01 Nov 2022</td>
+<td> What is a Service mesh?</td>
+<td> https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/Service%20meshes/What-is-Service-mesh.md</td>
 
 </table>
