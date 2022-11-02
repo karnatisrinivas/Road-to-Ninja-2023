@@ -183,5 +183,12 @@ https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/GitOps/What-is-G
 <td> 01 Nov 2022</td>
 <td> What is a Service mesh?</td>
 <td> https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/Service%20meshes/What-is-Service-mesh.md</td>
+</tr>
+<tr>
+<td> 02 Nov 2022</td>
+<td> Killercoda kubernets scenarios</td>
+<td> 1. https://killercoda.com/spcloud/course/kubernetes <br>
+2. https://killercoda.com/deepak9976</td>
+</tr>
 
 </table>
