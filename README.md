@@ -191,4 +191,10 @@ https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/GitOps/What-is-G
 2. https://killercoda.com/deepak9976</td>
 </tr>
 
+<tr>
+<td>03 Nov 2022</td>
+<td> What is Istio</td>
+<td> https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/Service%20meshes/Istio.md</td>
+</tr>
+
 </table>
