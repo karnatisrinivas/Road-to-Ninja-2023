@@ -196,5 +196,10 @@ https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/GitOps/What-is-G
 <td> What is Istio</td>
 <td> https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/Service%20meshes/Istio.md</td>
 </tr>
+<tr>
+<td> 04 Nov 2022</td>
+<td> Pods in kubernetes (tasks)</td>
+<td> https://github.com/karnatisrinivas/Kubernetes-tasks/tree/main/all-upto-deployment/pod</td>
+</tr>
 
 </table>
