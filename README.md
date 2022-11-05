@@ -201,5 +201,10 @@ https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/GitOps/What-is-G
 <td> Pods in kubernetes (tasks)</td>
 <td> https://github.com/karnatisrinivas/Kubernetes-tasks/tree/main/all-upto-deployment/pod</td>
 </tr>
+<tr>
+<td> 05 Nov 2022</td>
+<td>What is GitOps?</td>
+<td>https://twitter.com/__karnati/status/1588751254049759232</td>
+</tr>
 
 </table>
