@@ -204,7 +204,11 @@ https://github.com/karnatisrinivas/Road-to-Ninja-2023/blob/main/GitOps/What-is-G
 <tr>
 <td> 05 Nov 2022</td>
 <td>What is GitOps?</td>
-<td>https://twitter.com/__karnati/status/1588751254049759232</td>
+<td>
+https://twitter.com/__karnati/status/1588751254049759232 <br>
+https://killercoda.com/srinivaskarnati/course/all-upto-deployment/pod
+https://killercoda.com/srinivaskarnati/course/all-upto-deployment/replicaset<br>
+</td>
 </tr>
 
 </table>
